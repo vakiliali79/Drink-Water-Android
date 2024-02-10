@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drink Water</string>
+    <string name="tracking">Tracking</string>
+    <string name="goal">Goal</string>
+    <string name="history">History</string>
+    <string name="save">Save</string>
+    <string name="_save">save</string>
+</resources>
