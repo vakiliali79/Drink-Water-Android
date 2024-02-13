@@ -1,3 +1,6 @@
+## Installation:
+
+[Download APK](https://raw.githubusercontent.com/vakiliali79/Drink-Water-Android/master/Drink-Water.apk)
 
 
 
